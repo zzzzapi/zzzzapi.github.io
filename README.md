@@ -7,25 +7,28 @@
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 无需任何注册 | 人工在线客服
 <p>
-<img src="https://github.com/user-attachments/assets/4787c52e-ba27-4212-a29e-a7f5aef3aef4" width = "600"  alt="banner"/>
+<img src="https://github.com/user-attachments/assets/de0f0d09-87b6-44e3-9b38-83ac39e5dad0" width = "900"  alt="banner"/>
+
+ 
+
 </div>
 
 
 # 🚀导航🚀
 >
->[一🌟购买APIKEY](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%B8%80%E8%B4%AD%E4%B9%B0apikey)
+>[一🌟购买APIKEY](https://zzzzapi.com/topup)
 >
->[二🌟使用APIKEY](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%BA%8C%E4%BD%BF%E7%94%A8apikey)
+>[二🌟使用APIKEY](https://zzzzapi.com/token)
 >
->>[2.1免费镜像LobeChat|NextChat开箱即用](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#21%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8Flobechatnextchat%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8)
+>>[2.1免费镜像LobeChat|NextChat开箱即用](https://lobechatone.zeabur.app/chat)
 >>
->>[2.2其他三方客户端-沉浸式双语网页翻译](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#22%E5%85%B6%E4%BB%96%E4%B8%89%E6%96%B9%E5%AE%A2%E6%88%B7%E7%AB%AF-%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%8F%8C%E8%AF%AD%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91)
+>>[2.2其他三方客户端-沉浸式双语网页翻译](https://zzzzapi.apifox.cn/doc-5768085)
 >>
->>[2.3程序开发Python示例代码](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#23%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
+>>[2.3程序开发Python示例代码](https://zzzzapi.apifox.cn/)
 >>
 >[三🌟自助充值、查询APIKEY余额及明细](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E4%B8%89%E6%9F%A5%E8%AF%A2apikey%E4%BD%99%E9%A2%9D%E5%8F%8A%E6%98%8E%E7%BB%86)
 >
->[四🌟其他常见问题](https://github.com/baicaigpt/OPENAI_FAST_APIKEY?tab=readme-ov-file#%E5%9B%9B%E5%85%B6%E4%BB%96%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+>[四🌟其他常见问题]()
 >
 
 # 🎯 模型及超低定价🎯 
@@ -72,12 +75,12 @@
 [【淘宝】100%买家好评 「中转APIKEY高速稳定一秒响应」](https://item.taobao.com/item.htm?ft=t&id=901222542190&spm=a21dvs.23580594.0.0.1d292c1bq4yOcQ)
 点击链接直接打开或者手机淘宝扫码：
 
-<img src="https://github.com/user-attachments/assets/ee71889b-2977-4080-8ef3-1ab357d92410" width = "300"  alt="banner"/>
+<img src="https://github.com/user-attachments/assets/40ded6ee-f8b8-4099-815d-bda320e1fec0" width = "300"  alt="banner"/>
+
 
 
 ### 2、淘宝24小时自动秒发货，拍完，聊天窗口自动推送APIKE复制秘钥即可
 
-<img width="478" alt="Snipaste_2024-09-28_11-58-37" src="https://github.com/user-attachments/assets/ce3bf0f8-a1bc-404f-9d28-58f66e7a109f">
 	
 ### 3、除了APIKEY，中转API需要对应的转发URL，不同客户端配置稍有不同， 请逐个尝试下方地址：
 
@@ -92,58 +95,22 @@
 
 **1、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）**
 
-PC端/移动端，请访问 https://lobechat.baicaigpt.com
+PC端/移动端，请访问 https://lobechatone.zeabur.app/chat
 
-<img src="https://github.com/user-attachments/assets/dc698ec2-4915-487b-9e79-5663b868d379" width = "600"  alt="banner"/>
 
-<img src="https://github.com/user-attachments/assets/03190782-40f7-4dde-aab1-160474cd48a2" width = "600"  alt="banner"/>
-
-<img src="https://github.com/user-attachments/assets/92e49900-9599-42f4-8cbb-a2b5a541cde5" width = "600"  alt="banner"/>
 
 
 **2、NextChat（70K+ star！马上拥有跨平台 ChatGPT 应用：ChatGPT-Next-Web）**
 
-PC端/移动端，请访问 https://nextchat.baicaigpt.cn
+PC端/移动端，请访问 https://chatgptnetx.zeabur.app
 
-> **注意：仅需复制粘贴4Z API KEY即可，其他无需修改，详见下图**
-> **注意：仅需复制粘贴4Z API KEY即可，其他无需修改，详见下图**
-> **注意：仅需复制粘贴4Z API KEY即可，其他无需修改，详见下图**
 
-<img src="https://github.com/user-attachments/assets/fdde3575-2f4a-4a46-b634-5da07de2d5b5" width = "600"  alt="banner"/>
+
 
 可随时访问 [https://zzzzapi.com](https://zzzzapi.com) 查询余额及消费明细
 
-### 2.2其他三方客户端-沉浸式双语网页翻译
 
-**沉浸式双语网页翻译**
-
-1、打开Chrome插件，点击设置
-
-<img src="https://github.com/user-attachments/assets/754e499d-7dbd-4757-903b-a15e63c2e19d" width = "600"  alt="banner"/>
-
-2、复制从淘宝购买的APIKEY，并选择所需模型（模型可默认，或从模型清单选择，推荐gpt-4o-mini）
-
-<img src="https://github.com/user-attachments/assets/d2efaa67-d3fa-43c2-9b22-70dc753e2624" width = "600"  alt="banner"/>
-
-3、点击“展开更多自定义选型按钮”
-
-<img src="https://github.com/user-attachments/assets/9d16230b-16eb-454c-bea3-406983a86adb" width = "600"  alt="banner"/>
-
-4、复制转发地址，切记不要输错，复制粘贴如下地址即可
-
-**https://zzzzapi.com/v1/chat/completions**
-
-<img src="https://github.com/user-attachments/assets/4e2a9916-bfce-4064-a816-414b12751831" width = "600"  alt="banner"/>
-
-5、点击“测试服务”按钮，检查是否验证成功
-
-<img src="https://github.com/user-attachments/assets/3d95724a-4914-45dd-ad9f-de2a6c724f5d" width = "600"  alt="banner"/>
-
-6、完成配置，刷新网页可开始网页翻译！
-
-<img src="https://github.com/user-attachments/assets/368d8cd7-de78-45ec-9da7-9aa4613ca960" width = "600"  alt="banner"/>
-
-### 2.3程序开发Python示例代码
+### 2.2程序开发Python示例代码
 
 Python代码PDemo（复制粘贴，替换APIKEY即可调试通过）:
 
@@ -181,7 +148,9 @@ print(data.decode("utf-8"))
 APIKEY自助充值、余额及消费明细查询网址：[https://zzzzapi.com](https://zzzzapi.com) （拼音助记：4个Z API）
 
 使用说明：打开网址，输入APIKEY，即可自助充值、查询可用余额及消费明细
-![image](https://github.com/user-attachments/assets/e44520c6-a823-4e28-9446-919d46763e68)
+![image](https://github.com/user-attachments/assets/588d67af-90f1-4c0f-a59e-2603abb78a14)
+
+
 
 		
 ## 四🌟其他常见问题
@@ -216,7 +185,7 @@ APIKEY自助充值、余额及消费明细查询网址：[https://zzzzapi.com](h
 无时间限制，长期有效，用完为止。
 
 13.网页无法打开？
-请切换网络或，加客服微信BaiCai2568，在线咨询。
+请切换网络或，加客服QQ3239009945，在线咨询。
 
 14.都支持哪些模型？
 大部分模型均支持，可查阅文档：模型支持列表。
