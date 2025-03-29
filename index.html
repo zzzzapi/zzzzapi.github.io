@@ -19,6 +19,21 @@
     <link rel="icon" href="/openai.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="msvalidate.01" content="36CC1147BAC558447DA0D92095C7B6FA" />
+    <link rel="canonical" href="https://zzzzapi.github.io/" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "API中转站 | ChatGPT API、Claude API、Deepseek API免费接口服务",
+      "url": "https://zzzzapi.github.io/",
+      "description": "专业AI大模型API中转平台，提供ChatGPT/Claude/Deepseek免费API接口。支持GPT-4o/o1，Claude 3.5，Deepseek等全系列模型，国内直连稳定快速，注册即送免费额度！",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://zzzzapi.github.io/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -326,32 +341,37 @@ print(response.json())
     </section>
 
   <script>
-        const colors = [
-            ['#ff0080', '#7928ca'], 
-            ['#ff4d4d', '#f9cb28'], 
-            ['#7928ca', '#4c88e8'], 
-            ['#4c88e8', '#4FE2B1'], 
-            ['#ff0080', '#ff7f00']  
-        ];
-        const randomIndex = Math.floor(Math.random() * colors.length);
-        const [color1, color2] = colors[randomIndex];
-        document.documentElement.style.setProperty('--color-1', color1);
-        document.documentElement.style.setProperty('--color-2', color2);
+        // 延迟加载非关键JavaScript
+        document.addEventListener('DOMContentLoaded', function() {
+            const colors = [
+                ['#ff0080', '#7928ca'], 
+                ['#ff4d4d', '#f9cb28'], 
+                ['#7928ca', '#4c88e8'], 
+                ['#4c88e8', '#4FE2B1'], 
+                ['#ff0080', '#ff7f00']  
+            ];
+            const randomIndex = Math.floor(Math.random() * colors.length);
+            const [color1, color2] = colors[randomIndex];
+            document.documentElement.style.setProperty('--color-1', color1);
+            document.documentElement.style.setProperty('--color-2', color2);
 
-        function scrollToContent() {
-            document.getElementById('more-content').scrollIntoView({ behavior: 'smooth' });
-        }
+            function scrollToContent() {
+                document.getElementById('more-content').scrollIntoView({ behavior: 'smooth' });
+            }
 
-        function formatDate(date) {
-            const year = date.getFullYear();
-            const month = String(date.getMonth() + 1).padStart(2, '0');
-            const day = String(date.getDate()).padStart(2, '0');
-            return `${year}/${month}/${day}`;
-        }
-        
-        document.getElementById('curdate').textContent = formatDate(new Date());
-        document.getElementById('update-time').textContent = formatDate(new Date()).replace(/\//g, '年').replace(/(\d+)$/, '$1日');
-        
+            function formatDate(date) {
+                const year = date.getFullYear();
+                const month = String(date.getMonth() + 1).padStart(2, '0');
+                const day = String(date.getDate()).padStart(2, '0');
+                return `${year}/${month}/${day}`;
+            }
+            
+            document.getElementById('curdate').textContent = formatDate(new Date());
+            document.getElementById('update-time').textContent = formatDate(new Date()).replace(/\//g, '年').replace(/(\d+)$/, '$1日');
+            
+            // 为箭头添加事件监听器
+            document.querySelector('.arrow-down').addEventListener('click', scrollToContent);
+        });
     </script>
 </body>
 </html>
