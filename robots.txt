@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://zzzzapi.github.io/sitemap.xml 
+Sitemap: https://zzzzapi.com/sitemap.xml
